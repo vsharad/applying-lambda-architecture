@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b56ba24-e81d-4591-a343-43235537ccff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lihaoyi_geny_2_13_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lihaoyi_os_lib_2_13_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applying-lambda-architecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/spark-lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/src/main/resources/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/src/main/resources/referrers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/src/main/scala/clickstream/LogProducer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/src/main/scala/config/Settings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/clickstream/LogProducer$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/clickstream/LogProducer$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/clickstream/LogProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/config/Settings$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/config/Settings$WebLogGen$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/config/Settings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-lambda/target/classes/referrers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/machines/default/virtualbox/action_set_name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/machines/default/virtualbox/box_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/machines/default/virtualbox/id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/machines/default/virtualbox/synced_folders" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/machines/default/virtualbox/vagrant_cwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/.vagrant/rgloader/loader.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/associate-existing-vm-with-vagrant.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vagrant/data.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vagrant/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/../vagrant/Vagrantfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1auAndpiI2G6yM2l1FCHKTSGOfv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.LogProducer">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.Hello" />
+      <module name="spark-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogProducer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="clickstream.LogProducer" />
+      <module name="spark-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clickstream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LogProducer" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b56ba24-e81d-4591-a343-43235537ccff" name="Default Changelist" comment="" />
+      <created>1587575273308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587575273308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="0" key="#Project_Structure" timestamp="1587576578076">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="311" y="0" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1587576578076" />
+    <state x="628" y="116" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587575595537">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="628" y="116" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587575595537" />
+    <state x="654" y="143" width="954" height="746" key="#xdebugger.evaluate" timestamp="1587661699201">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="654" y="143" width="954" height="746" key="#xdebugger.evaluate/0.0.1920.1032@0.0.1920.1032" timestamp="1587661699201" />
+    <state width="1864" height="319" key="GridCell.Tab.0.bottom" timestamp="1587661804863">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1587661804863" />
+    <state width="1864" height="319" key="GridCell.Tab.0.center" timestamp="1587661804863">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1587661804863" />
+    <state width="1864" height="319" key="GridCell.Tab.0.left" timestamp="1587661804863">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1587661804863" />
+    <state width="1864" height="319" key="GridCell.Tab.0.right" timestamp="1587661804863">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1587661804863" />
+    <state width="1864" height="319" key="GridCell.Tab.1.bottom" timestamp="1587661806485">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1587661806485" />
+    <state width="1864" height="319" key="GridCell.Tab.1.center" timestamp="1587661806485">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1587661806485" />
+    <state width="1864" height="319" key="GridCell.Tab.1.left" timestamp="1587661806485">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1587661806485" />
+    <state width="1864" height="319" key="GridCell.Tab.1.right" timestamp="1587661806485">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="319" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1587661806485" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/spark-lambda/src/main/scala/clickstream/LogProducer.scala</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+Is there a way to re-associate the Vagrant project with the existing VM? How does Vagrant internally associate a Vagrantfile with a VirtualBox VM directory?
+
+For Vagrant 1.6.3 do the following:
+
+1) In the directory where your Vagrantfile is located, run the command
+
+VBoxManage list vms
+
+You will have something like this:
+
+"virtualMachine" {xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}
+
+2) Go to the following path:
+
+cd .vagrant/machines/default/virtualbox
+
+3) Create a file called id with the ID of your VM xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+
+4) Save the file and run vagrant up
